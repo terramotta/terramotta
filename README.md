@@ -17,5 +17,4 @@
 
   </div>
   
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=terramotta&repo=terramotta&theme=react)](https://github.com/terramotta/terramotta)
-<div  align="center"> 
+
