@@ -18,7 +18,7 @@
 
 ```rust
 let pedro = {
-  pronouns: "ele",
+  age: "23",
   code: [Python, C++, Elixir],
   tools: [Git, VSCode, Docker, VisualStudio 2022, Jest],
   interests: ["Desenvolvimento de sistemas embarcados", "Inteligência Artificial", "Visão Computacional"],
