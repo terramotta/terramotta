@@ -9,7 +9,8 @@
 [![Instagram: ppedromotta](https://img.shields.io/badge/-ppedromotta-%23E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ppedromotta/)](https://www.instagram.com/ppedromotta/)
 [![GitHub: terramotta](https://img.shields.io/badge/-terramotta-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/terramotta)](https://github.com/terramotta)
 [![Email: terramotta](https://img.shields.io/badge/Gmail-D14836?style=badge&logo=gmail&logoColor=white)](mailto:pterra.motta@gmail.com)
-[![Email: terramotta](https://img.shields.io/badge/Gmail-D14836?style=badge&logo=gmail&logoColor=white)](javascript:void(window.open('mailto:p.terra.motta@gmail.com')))
+[![Email: terramotta](https://img.shields.io/badge/Gmail-D14836?style=badge&logo=gmail&logoColor=white)](javascript:void(window.location.href='mailto:p.terra.motta@gmail.com'))
+
 
 
 <br> <!-- Linha vazia -->
