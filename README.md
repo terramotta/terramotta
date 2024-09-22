@@ -27,7 +27,6 @@ let pedro = {
   age: "23",
   code: [Python, C++, Javascript, Elixir],
   tools: [Git, VSCode, Docker, VisualStudio 2022, Jest],
-  interests: ["Desenvolvimento de sistemas embarcados", "Inteligência Artificial", "Visão Computacional"],
-  challenge: "Estou fazendo o desafio #100DaysOfCode focado em React e JavaScript"
+  interests: ["Desenvolvimento de sistemas embarcados", "Inteligência Artificial", "Visão Computacional"]
 }
 
