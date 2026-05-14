@@ -2,8 +2,8 @@
 
 <img align='right' src="https://media.giphy.com/media/YRMb6dd7zprS00JdGZ/giphy.gif" width="230" style="float: right;">
 
-<p><em>Estudante de Engenharia Elétrica com especialização em Computação na <a href="https://www.ufmg.br/">UFMG</a>&nbsp; <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
-</br>Software Developer Intern at <a href="https://www.sydle.com/">Sydle</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Estudante de Engenharia Elétrica na <a href="https://www.ufmg.br/">UFMG</a>&nbsp; <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+</br>
 </em></p>
 
 </br>Entusiasta de Elixir e atualmente trabalhando com Python, JavaScript, PHP e C++</p>
