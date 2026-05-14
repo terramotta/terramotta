@@ -6,27 +6,11 @@
 </br>
 </em></p>
 
-</br>Entusiasta de Elixir e atualmente trabalhando com Python, JavaScript, PHP e C++</p>
-
 
 
 
 [![LinkedIn: Pedro Motta](https://img.shields.io/badge/-PedroMotta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-motta-4a0896267/)](https://www.linkedin.com/in/pedro-motta-4a0896267/)
-[![Instagram: ppedromotta](https://img.shields.io/badge/-ppedromotta-%23E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ppedromotta/)](https://www.instagram.com/ppedromotta/)
 [![GitHub: terramotta](https://img.shields.io/badge/-terramotta-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/terramotta)](https://github.com/terramotta)
 [![Email: terramotta](https://img.shields.io/badge/Gmail-D14836?style=badge&logo=gmail&logoColor=white)](mailto:pterra.motta@gmail.com)
 
-
-
-<br> <!-- Linha vazia -->
-
-### Um pouco mais sobre mim...  
-
-```rust
-let pedro = {
-  age: "23",
-  code: [Python, C++, Javascript, Elixir],
-  tools: [Git, VSCode, Docker, VisualStudio 2022, Jest],
-  interests: ["Desenvolvimento de sistemas embarcados", "Inteligência Artificial", "Visão Computacional"]
-}
 
